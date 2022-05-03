@@ -3,7 +3,7 @@ const mail = prompt("inserisci la tua mail");
 console.log(mail);
 
 //  2. verifico se la sua mail e' presente sulla lista 
-const list = ["", "luca@gmail.com", "fabio@gmail.com"]
+const list = ["gino@gmail.com", "luca@gmail.com", "fabio@gmail.com"]
 
 //  3. stampiamo un esito della verifica
 
